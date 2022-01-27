@@ -1,0 +1,10 @@
+C:\Users\Rendell\source\repos\Udemy Course\Windows_Form_App\VolumeConverter\VolumeConverter\obj\Debug\VolumeConverter.csproj.AssemblyReference.cache
+C:\Users\Rendell\source\repos\Udemy Course\Windows_Form_App\VolumeConverter\VolumeConverter\obj\Debug\VolumeConverter.Form1.resources
+C:\Users\Rendell\source\repos\Udemy Course\Windows_Form_App\VolumeConverter\VolumeConverter\obj\Debug\VolumeConverter.Properties.Resources.resources
+C:\Users\Rendell\source\repos\Udemy Course\Windows_Form_App\VolumeConverter\VolumeConverter\obj\Debug\VolumeConverter.csproj.GenerateResource.cache
+C:\Users\Rendell\source\repos\Udemy Course\Windows_Form_App\VolumeConverter\VolumeConverter\obj\Debug\VolumeConverter.csproj.CoreCompileInputs.cache
+C:\Users\Rendell\source\repos\Udemy Course\Windows_Form_App\VolumeConverter\VolumeConverter\bin\Debug\VolumeConverter.exe.config
+C:\Users\Rendell\source\repos\Udemy Course\Windows_Form_App\VolumeConverter\VolumeConverter\bin\Debug\VolumeConverter.exe
+C:\Users\Rendell\source\repos\Udemy Course\Windows_Form_App\VolumeConverter\VolumeConverter\bin\Debug\VolumeConverter.pdb
+C:\Users\Rendell\source\repos\Udemy Course\Windows_Form_App\VolumeConverter\VolumeConverter\obj\Debug\VolumeConverter.exe
+C:\Users\Rendell\source\repos\Udemy Course\Windows_Form_App\VolumeConverter\VolumeConverter\obj\Debug\VolumeConverter.pdb
